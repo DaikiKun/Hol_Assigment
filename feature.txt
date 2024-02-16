@@ -1,4 +1,3 @@
 This is first feature. Test By Khant.
 This is second feature. Test By Khant,again.
-
-This is third feature. Test By <-Please Insert Collabrator Name->.
+This is third feature. Test By Kuro_Sensei.
